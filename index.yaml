@@ -3,12 +3,12 @@ entries:
   app-library:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-06-08T17:33:18.004239667+02:00"
+    created: "2023-06-08T17:45:00.292589693+02:00"
     description: A Helm chart for Kubernetes
     digest: d741d6080b78de436ff8a51230c52499b123df443135d10cca46b2dfb59c9d31
     name: app-library
     type: library
     urls:
-    - app-library-0.1.0.tgz # https://github.com/romerobu/app-library/app-library-0.1.0.tgz
+    - https://romerobu.github.io/app-library/app-library-0.1.0.tgz
     version: 0.1.0
-generated: "2023-06-08T17:33:18.003992179+02:00"
+generated: "2023-06-08T17:45:00.292309068+02:00"
