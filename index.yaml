@@ -9,6 +9,6 @@ entries:
     name: app-library
     type: library
     urls:
-    - https://github.com/romerobu/app-library/app-library-0.1.0.tgz
+    - app-library-0.1.0.tgz # https://github.com/romerobu/app-library/app-library-0.1.0.tgz
     version: 0.1.0
 generated: "2023-06-08T17:33:18.003992179+02:00"
